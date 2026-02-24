@@ -48,5 +48,3 @@ pip install -r requirements.txt
 
 *Developed for research purposes at IBPPM (ИБФРМ РАН).*
 ```
-
-Теперь любой, кто зайдет, увидит, какой мощный и гибкий инструмент ты создала! Что-то еще добавим или на этом финализируем?
